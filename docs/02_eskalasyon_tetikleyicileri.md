@@ -49,7 +49,7 @@ Bir talep birden fazla kategoriyi aynı anda tetiklerse, en yüksek seviyeye (ö
 
 ## 5. Karar Akışı
 
-Ajanın karar süreci aşağıdaki sırayla işler (bkz. `diagrams/eskalasyon_akisi.md`):
+Ajanın karar süreci aşağıdaki sırayla işler (`diagrams/eskalasyon_akisi.md`):
 
 1. Talep alınır ve kanal/içerik bilgisiyle birlikte sınıflandırılır.
 2. Talep, Bölüm 3'teki beş tetikleyici kategoriye karşı kontrol edilir.
